@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Headers">
+      <UniqueIdentifier>{7585804c-e928-41a7-9ec1-62f4cb27941e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ExamplePrograms">
+      <UniqueIdentifier>{068f4cf0-b5ab-4236-bf60-b9aff5e2812d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MIN.cs">
+      <Filter>Исходные файлы\ExamplePrograms</Filter>
+    </None>
+    <None Include="NOD.cs">
+      <Filter>Исходные файлы\ExamplePrograms</Filter>
+    </None>
+    <None Include="STR.cs">
+      <Filter>Исходные файлы\ExamplePrograms</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lexer.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Lexer.h">
+      <Filter>Исходные файлы\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Token.h">
+      <Filter>Исходные файлы\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Function.h">
+      <Filter>Исходные файлы\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

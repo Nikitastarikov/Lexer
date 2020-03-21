@@ -1,0 +1,3 @@
+﻿  Lexer.cpp
+c:\users\user\source\repos\flexer\flexer\lexer.cpp(14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Flexer.vcxproj -> C:\Users\user\source\repos\Flexer\x64\Debug\Flexer.exe

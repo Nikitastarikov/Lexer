@@ -1,0 +1,7 @@
+﻿  unittest.cpp
+c:\users\user\source\repos\flexer\unittest\unittest.cpp(54): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\source\repos\flexer\unittest\unittest.cpp(74): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\source\repos\flexer\unittest\unittest.cpp(92): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\user\source\repos\flexer\unittest\unittest.cpp(109): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\user\source\repos\Flexer\x64\Debug\UnitTest.lib ш юс·хъЄ C:\Users\user\source\repos\Flexer\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\user\source\repos\Flexer\x64\Debug\UnitTest.dll
